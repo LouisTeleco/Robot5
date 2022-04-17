@@ -1,0 +1,55 @@
+a	{
+	 text-decoration: NONE;  /* enlever le surlignage sur les liens hypertextes */
+}	 
+body {
+	 width:	80%
+	 min-width:	524px;
+	 height:	aivailable;
+	 min-height:	480px;
+	 float: center;
+     background-image: url('nao_2015.jpg');
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 font-family: VERDANA, SANS-SERIF; 	/*change la police dans tout le contenu des pages */
+	 font-size: 15PX;
+	 line-height: 1.5;
+	 list-style-type:	NONE;
+	 }
+
+Button{
+	 background-color: red;  /* rouge */
+	 border: center;
+	 color: BLACK;
+	 /* padding: 15 px 32 px; */
+	 text-align: CENTER;
+	 text-decoration:  None;
+	 display: INLINE-BLOCK;
+	 list-style-type: none;
+	  text-decoration: non;
+	 font-size: 17PX;	
+}
+h1 {
+	font-family: ARIAL, SANS-SERIF;		/* change la police des titres H1 */
+	COLOR: blue ;                     /*  applique la couleur bleue à H1 */
+}
+h2{
+	FONT-FAMILY: ARIAL, SANS-SERIF;		/* change la police des titres H2 */
+	COLOR: black ;                     /*  applique la couleur noir à H2 */
+}	
+h3{
+	FONT-FAMILY: ARIAL, SANS-SERIF;		/* change la police des titres H3 */
+	COLOR: lightgrey ;                     /*  applique la couleur gris à H3 */
+}
+Header {
+	BACKGROUND-COLOR: GREY;
+	PADDING: 12PX;
+	TEXT-ALIGN: CENTER;
+	CLEAR: BOTH;
+} 
+FOOTER {
+	BACKGROUND-COLOR: GREY;
+	PADDING: 12PX;
+	TEXT-ALIGN: CENTER;
+	CLEAR: BOTH;
+} 
+

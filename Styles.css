@@ -1,0 +1,52 @@
+NAV {
+	DISPLAY: FLEX; 		/* propriété de positionnment (FLEXBOX) */
+	FLEX-DIRECTION: ROW; /* propriété du flexbox, mettre èa l'horizontal en rangée */
+	JUSTIFY-CONTENT: SPACE-BETWEEN; 	/*espace entre les différents menus */
+}
+nav ul li {
+	list-style-type:	none;	/* enlever les points sur les listes (DISQ, CIRCLE, SQUARE) */
+}
+a	{
+	TEXT-DECORATION: NONE;  /* enlever le surlignage sur les liens hypertextes */
+}
+BUTTON	{
+	background-color: orange;  /* orange */
+	BORDER:	center;
+	COLOR: BLACK;
+	/* padding: 15 px 32 px; */
+	TEXT-ALIGN: CENTER;
+	TEXT-DECORATION:  none;
+	DISPLAY: INLINE-BLOCK;
+	FONT-SIZE: 16PX;
+}
+HEADER {
+	BACKGROUND-COLOR: #33A1FF;
+	PADDING: 12PX;
+	TEXT-ALIGN: CENTER;
+	CLEAR: BOTH;	
+}
+BODY {
+	FONT-FAMILY: VERDANA, SANS-SERIF; 	/*change la police dans tout le contenu des pages */
+	FONT-SIZE: 16PX;
+	LINE-HEIGHT: 1.5;
+	BACKGROUND-COLOR: LIGHTBLUE; 
+	LIST-STYLE-TYPE:	NONE;
+}
+H1 {
+	FONT-FAMILY: ARIAL, SANS-SERIF;		/* change la police des titres H1 */
+	COLOR: blue ;                     /*  applique la couleur de ce code à H1 */
+}
+H2{
+	FONT-FAMILY: ARIAL, SANS-SERIF;		/* change la police des titres H3 */
+	COLOR: blue ;                     /*  applique la couleur de ce code à H3 */
+}
+H4{
+	FONT-FAMILY: ARIAL, SANS-SERIF;		/* change la police des titres H3 */
+	COLOR: blue ;                     /*  applique la couleur de ce code à H3 */
+}
+FOOTER {
+	BACKGROUND-COLOR: GREY;
+	PADDING: 12PX;
+	TEXT-ALIGN: CENTER;
+	CLEAR: BOTH;
+}

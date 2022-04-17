@@ -1,0 +1,39 @@
+body {                    
+	width: available;   /* ce css styles2 permet de diviser la page en trois parties */
+	height:available;   /* gauche, milieu, droit */
+}
+.container {
+	width: available;
+	height: available;
+	}
+.leftpane {
+	width: 25%;
+	min-width: 350px;
+	height:	aivailable;
+	min-height:	1150px;
+	float: left;
+	background-color: lightgrey;
+	border-collapse: collapse;
+}
+.midlepane	{
+	width:	50%
+	min-width:	800px;
+	height:	aivailable;
+	min-height:	1100px;
+	float: center;
+	background-color: lightblue;
+	border-collapse: collapse;
+}
+.rightpane	{
+	width: 25%;
+	min-width: 350px;
+	height:	aivailable;
+	min-height:	1150px;
+	float: right;
+	background-color: lightgrey;
+	border-collapse: collapse;
+}
+
+
+
+	
